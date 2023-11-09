@@ -9,9 +9,9 @@ int main() {
         n=n/10;
     }
     if(z==i) {
-        printf("Palindrome");
+        printf("True");
     }
     else {
-        printf("Not Palindrome");
+        printf("False");
     }
 }
